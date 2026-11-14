@@ -1,0 +1,6 @@
+# Башкирская модель распознавания речи (пишет кириллицей), ставится через install_asr_ba.bat.
+# av — чтение mp3/m4a/ogg без ffmpeg, нужно и для разметки по паузам.
+--extra-index-url https://download.pytorch.org/whl/cpu
+av>=12
+torch
+transformers>=4.33
