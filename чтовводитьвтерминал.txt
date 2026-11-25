@@ -1,3 +1,0 @@
-токен: 9090737330:AAEZNdVouYVI8xmZqlZyFLiRJfABIl1HeOA
-api_key: c2b135da86c8621ce50719d54ac5a72940e6ebffa7291c2c
-пароль приложения: jotpsxjzsqaiwydo
